@@ -7,11 +7,12 @@ _Description:_<br>
 # How-To:<br>
 1.Load your anarchy online accounts<br>
 2.Select your main char from the drop down window <br>
-3.Click Set<br>
-4.On your Accounts Bind All of your attacks and perks on all toons to the F key<br>
-5.On all of your sub (Not your main) add a '/assist ASS /assist<MainToonName>' to your hot bar<br>
-6.For AFK mode click RUN<br>
-7.For Multibox Support, check the On button, switch to Off to disable.<br>
+3.Select your preferred keybind from the options provided<br>
+4.On your Accounts Bind All of your attacks and perks on all toons to the match the selected keybind<br>
+5.Click Set<br>
+6.On all of your sub (Not your main) add a '/assist ASS /assist<MainToonName>' to your hot bar<br>
+7.For AFK mode click RUN<br>
+8.For Multibox Support, check the On button, switch to Off to disable.<br>
   **(NOTE: Currently switching from Multibox mode to AFK mode causes a crash of the client and program, will fix this tomorrow<br>**
   
 # Features
